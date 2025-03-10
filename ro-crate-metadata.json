@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-02-03T12:43:04.480022",
+            "datePublished": "2025-03-10T10:06:10.289465",
             "hasPart": [
                 {
                     "@id": "mapseq-to-ampvis2.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://orcid.org/0009-0000-2501-8053"
                 },
                 {
-                    "@id": "#5358f905-fef9-4baa-9521-5b7b90de538c"
+                    "@id": "#2ab426ff-dd57-4492-bb41-fc5c819faf83"
                 }
             ],
             "name": "mapseq-to-ampvis2/main",
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mapseq-to-ampvis2",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -95,7 +95,7 @@
             "name": "Rand Zoabi"
         },
         {
-            "@id": "#5358f905-fef9-4baa-9521-5b7b90de538c",
+            "@id": "#2ab426ff-dd57-4492-bb41-fc5c819faf83",
             "@type": "Person",
             "name": "Mara Besemer"
         },
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.27"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
